@@ -1,0 +1,9 @@
+baseurl = "http://oscar.dgnest.com/"
+languageCode = "en-us"
+title = "Breaking the shell"
+author = "Oscar Giraldo Castillo"
+canonifyurls = true
+paginate = 10
+
+[permalinks]
+  post = "/:year/:month/:slug/"
