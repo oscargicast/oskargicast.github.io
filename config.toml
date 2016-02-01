@@ -1,6 +1,6 @@
-baseurl = "http://oscar.dgnest.com/"
+baseurl = "http://wts.dgnest.com/"
 languageCode = "en-us"
-title = "Breaking The Shell"
+title = "What The $hell"
 author = "Oscar Giraldo Castillo"
 canonifyurls = true
 paginate = 10

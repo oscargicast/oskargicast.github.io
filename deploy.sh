@@ -10,6 +10,7 @@ hugo
 # Moving the generated project.
 cp -R public /tmp
 cp CNAME /tmp/public
+cp README.md /tmp/public
 
 # Going to "public" temporal project.
 cd /tmp/public
