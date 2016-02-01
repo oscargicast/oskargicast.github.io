@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>What The $hell</title>
+    <link>http://wts.dgnest.com/</link>
+    <description>Recent content on What The $hell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://wts.dgnest.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World!</title>
+      <link>http://wts.dgnest.com/2016/01/hello-world/</link>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://wts.dgnest.com/2016/01/hello-world/</guid>
+      <description>
+
+&lt;p&gt;Welcome to my personal blog. Many months ago I had that itchy feeling in my brain telling me
+to create this blog. Why? The reasons are many, from sharing some development curiosities
+to share some cooking tips. The main reason in this tiny space is SHARING.&lt;/p&gt;
+
+&lt;h2 id=&#34;next-steps:aa77bbfd89a7b0ff10def205b9c08d51&#34;&gt;Next steps&lt;/h2&gt;
+
+&lt;p&gt;I usually organize some of my goals on trello as you can see bellow. So I finally
+take this time to setup &lt;a href=&#34;http://gohugo.io/&#34;&gt;hugo&lt;/a&gt; to make this basic blog. You can check
+the repo on &lt;a href=&#34;https://github.com/oskargicast/oskargicast.github.io&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://wts.dgnest.com/media/hello-world/trello.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Tasks to do shown in Trello&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;So I won&amp;rsquo;t say goodbye cause this is just the beginning :)&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/rblYSKz_VnI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;C U soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
