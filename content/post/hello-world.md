@@ -21,8 +21,6 @@ the repo on [github](https://github.com/oskargicast/oskargicast.github.io).
 
 So I won't say goodbye cause this is just the beginning :)
 
-{{< highlight html >}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rblYSKz_VnI" frameborder="0" allowfullscreen></iframe>
-{{< /highlight >}}
+{{< youtube rblYSKz_VnI >}}
 
 C U soon.
