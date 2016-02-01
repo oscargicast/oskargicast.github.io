@@ -1,9 +1,10 @@
 baseurl = "http://oscar.dgnest.com/"
 languageCode = "en-us"
-title = "Breaking the shell"
+title = "Breaking The Shell"
 author = "Oscar Giraldo Castillo"
 canonifyurls = true
 paginate = 10
+pygmentsuseclasses = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
